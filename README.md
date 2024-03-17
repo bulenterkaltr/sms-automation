@@ -25,7 +25,7 @@ And Small businesses, startups, entrepreneurs and individual can take advantages
 
 **Step 0- Clone this tool on termux**
 
-git clone https://github.com/armanhrshaikh/sms-automation.git && cd sms-automation && chmod -R 755 *
+git clone https://github.com/bulenterkaltr/sms-automation.git && cd sms-automation && chmod -R 755 *
 
 
 **Step 1- Install dependencies**
